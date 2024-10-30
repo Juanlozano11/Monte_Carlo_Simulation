@@ -1,6 +1,6 @@
 # Monte Carlo Simulation for Option Pricing
 
-## What Is a Monte Carlo Simulation?
+## Context: What Is a Monte Carlo Simulation?
  
 A Monte Carlo simulation is a computational technique used to model the probability of different outcomes in systems or processes that are complex and involve random variables. This method is extensively used in fields such as finance, physics, engineering, and business to assess risk and uncertainty. It enables analysts to see all the possible outcomes of their decisions and assess the impact of risk, allowing for better decision-making under uncertainty. For more information, see Investopedia's Monte Carlo Simulation entry. (https://www.investopedia.com/terms/m/montecarlosimulation.asp)
 
