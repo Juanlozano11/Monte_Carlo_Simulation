@@ -7,9 +7,12 @@ Path : cd desktop/projects/Monte_Carlo_simulation
     - source venv/bin/activate
 
 
-3. Download NumPy and matplotlib with pip
+3. Install NumPy and matplotlib with pip
     pip install numpy
     pip install matplotlib
+
+3. Install pandas
+    pip install pandas-datareader
 
 
 
