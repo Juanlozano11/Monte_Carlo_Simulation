@@ -1,0 +1,41 @@
+Path : cd desktop/projects/Monte_Carlo_simulation
+
+1. Create venv, make sure you create it in the correct path. 
+    - python3 -m venv venv
+
+2. Acttivate venv. 
+    - source venv/bin/activate
+
+
+3. Download NumPy and matplotlib with pip
+    pip install numpy
+    pip install matplotlib
+
+
+
+
+Structure: 
+
+Monte_Carlo_Simulation/
+│
+├── venv/                 
+│
+├── src/                  
+│   ├── main.py           
+│   ├── montecarlo.py     
+│   └── utils.py          
+│
+├── data/                 
+│   └── market_data.csv   
+│
+├── results/              
+│   └── output.txt        
+│
+├── tests/                
+│   ├── test_main.py      
+│   └── test_utils.py     
+│
+├── .gitignore            
+├── README.md             
+└── requirements.txt      
+
