@@ -1,7 +1,7 @@
 # test_main.py
 
 import unittest
-from main import main  # Assuming main does not require command-line arguments and is testable as-is
+from main_eurusd import main  # Assuming main does not require command-line arguments and is testable as-is
 
 class TestMainFunction(unittest.TestCase):
     def test_main_function_runs(self):

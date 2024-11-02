@@ -1,10 +1,11 @@
-## run the file : python3 src/main.py CQGKZTRMUJP5O4AC
+## run the file : python3 src/main_eurusd.py 
+# API key:  CQGKZTRMUJP5O4AC
 
 # main.py
 
 import numpy as np
 import matplotlib.pyplot as plt
-from data_fetcher import fetch_exchange_rate_data, calculate_initial_conditions
+from data_fetcher_eurusd import fetch_exchange_rate_data, calculate_initial_conditions
 from MonteCarlo import MonteCarloSimulator
 
 def main():
